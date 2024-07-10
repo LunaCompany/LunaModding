@@ -5,6 +5,7 @@
 
 # Built-in mods
 ### [DebugLunaMod](https://github.com/LunaCompany/LunaPlugins/blob/main/Builtin/DebugLunaMod.dll) - mod allows you to open debug window by pressing F3 key.
+- Paste it in DebugLunaMod F8 Window:
 ```cs
-LunaCompany-LunaPlugins-Builtin/DebugLunaMod.dll
+LunaCompany-LunaModding-Builtin/DebugLunaMod.dll
 ```
