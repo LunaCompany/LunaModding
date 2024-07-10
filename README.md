@@ -14,7 +14,7 @@
 LunaCompany-LunaModding-Builtin/DebugLunaMod.dll
 ```
 
-### [DebugLunaMod](https://github.com/LunaCompany/LunaPlugins/blob/main/Builtin/LunaModDownloader.dll) - mod allows you to download mods by their keys by pressing F8 key.
+### [LunaModDownloader](https://github.com/LunaCompany/LunaPlugins/blob/main/Builtin/LunaModDownloader.dll) - mod allows you to download mods by their keys by pressing F8 key.
 - Paste it in LunaModDownloader F8 Window:
 ```cs
 LunaCompany-LunaModding-Builtin/LunaModDownloader.dll
