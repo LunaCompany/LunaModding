@@ -1,7 +1,7 @@
 <h1 align="center">Luna Launcher Mods</h2>
 
 > [!NOTE]
-> **To download mods you can use F8 key with [DebugLunaMod](https://github.com/LunaCompany/LunaPlugins/blob/main/Builtin/DebugLunaMod.dll)**
+> **To download mods you can use F8 key with [LunaModDownloader](https://github.com/LunaCompany/LunaPlugins/blob/main/Builtin/LunaModDownloader.dll)**
 
 
 <h1 align="center">Built-in mods</h1>
